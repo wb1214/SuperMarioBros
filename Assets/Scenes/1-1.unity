@@ -389,6 +389,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -824,6 +829,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -927,6 +937,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Size.x
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
@@ -2279,6 +2294,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -3203,6 +3223,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -3620,6 +3645,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -3960,6 +3990,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Size.x
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
@@ -4354,6 +4389,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Size.x
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
@@ -4829,6 +4869,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Size.x
       value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
@@ -5532,6 +5577,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1538198842}
     m_Modifications:
+    - target: {fileID: 2975408962737915550, guid: 1b695c9c8a2294b4aa86676427605f6d,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 8e4671e8191327043bd670a556848ddc, type: 2}
     - target: {fileID: 5089457831988372518, guid: 1b695c9c8a2294b4aa86676427605f6d,
         type: 3}
       propertyPath: m_Name
@@ -6605,6 +6655,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -7256,6 +7311,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -7503,6 +7563,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Size.x
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
@@ -7987,6 +8052,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -8384,6 +8454,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Size.x
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
@@ -10044,6 +10119,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -10814,6 +10894,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -10831,6 +10916,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SpriteTilingProperty.newSize.x
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880147, guid: 0022c683289545849998832098a77dca,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0022c683289545849998832098a77dca, type: 3}
@@ -10989,6 +11079,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -11085,6 +11180,11 @@ PrefabInstance:
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
       propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
+      propertyPath: m_Size.y
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
@@ -11368,6 +11468,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -11535,6 +11640,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Size.x
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
@@ -12233,6 +12343,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -12330,6 +12445,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Size.x
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
@@ -13096,7 +13216,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a556804dfcf328141acaecc0b2101882, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9cff2f249cb9047468d554c3c5e5455b, type: 3}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -13370,6 +13490,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
       propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
@@ -13467,6 +13592,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Size.x
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8791277684133880146, guid: 0022c683289545849998832098a77dca,
         type: 3}
